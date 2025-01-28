@@ -1,7 +1,7 @@
 # PseudoRandomCracker
 This project allowed me to exploit the lottery mechanism of some smart contracts by cracking their pseudo-random number solution.
 
-One of them was  [1cuk](https://bscscan.com/token/0x30016a1764c93eedccbee5e1b3835f191c6f4050), which generated their solution from an equation which had 3 different pseudo-random numbers as inputs.
+One of them was  [1uck](https://bscscan.com/token/0x30016a1764c93eedccbee5e1b3835f191c6f4050), which generated their solution from an equation which had 3 different pseudo-random numbers as inputs.
 
 These numbers could be retrieved by continously scanning the blockchain to monitor the smart contract's transactions and keeping track of it's current state. That's what this project is doing.
 
