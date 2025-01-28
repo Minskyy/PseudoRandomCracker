@@ -7,7 +7,7 @@ These numbers could be retrieved by continously scanning the blockchain to monit
 
 Then, with the solution in hand, a transaction needs to be made at a very precise timestamp (down to 1-2s of margin) in order to crack the function in the smart contract which sends the lottery proceeds to the caller's wallet.
 
-I'm keeping the main part of the program private (but the tools I make available here are enough for you to give it a try)
+I'm keeping my exploting script private, but the tools I make available here are enough for you to give it a try.
 
-Ping me if you need help!
+Ping me if you're interested and need help!
 
